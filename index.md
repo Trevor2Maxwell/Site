@@ -3,7 +3,7 @@
 
 ---
 
-### Learn About My Projects
+### Click on each project to get more details. 
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
