@@ -1,5 +1,4 @@
-# My Portfolio
-<img src="images/Portfolo Title.png?raw=true"/>
+<img src="images/Portfolio_Header.png?raw=true"/>
 
 ---
 
