@@ -3,7 +3,7 @@
 
 ---
 
-### Click on each project to get more details. 
+### Click for more details. 
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
