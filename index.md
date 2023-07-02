@@ -5,9 +5,9 @@
 
 ### Click for more details. 
 
-#### [Internal Blog Post Project](/bank)
+#### [Internal Blog Post Project](/sample_project.md)
 <img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
-Tolulope is the best
+Surprising Insights Into Food Delivery!
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
