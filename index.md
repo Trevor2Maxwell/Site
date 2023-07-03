@@ -4,7 +4,7 @@
 
 #### <img src="images/welcome message.jpg?raw=true"/> 
 
-#### [Internal Blog Post Project](/sample_project.md)
+#### [PRESS HERE to see project](/sample_project.md)
 <img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
 Surprising Insights Into Food Delivery!
 
