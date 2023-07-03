@@ -2,7 +2,7 @@
 
 ---
 
-### Click for more details. 
+#### <img src="images/welcome message.jpg?raw=true"/> 
 
 #### [Internal Blog Post Project](/sample_project.md)
 <img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
